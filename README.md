@@ -50,7 +50,7 @@
 <a href="https://github.com/KrisComp16" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/@kristian.compton" target="_blank">
+<a href="https://www.youtube.com/@kristian.compton" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/pokekarrantula" target="_blank">
@@ -64,9 +64,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KrisComp16&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
