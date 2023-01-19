@@ -6,7 +6,7 @@
 ## <div align="center">👋Hello there! My name is Kristian and I am an aspiring games developer from the UK 👋</div>  
   
 
-## <div align="center">⌨️I specialize in development in Unity using C#, but below are a list of the programs and languages that I have experience using⌨️</div>  
+## <div align="center">⌨️I specialize in development in Unity using C#, but below are a list of the programs and languages that I have experience using (from most experienced on the left to least experienced on the right)⌨️</div>  
   
 
 <br/>  
@@ -21,7 +21,7 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>  
 
-###### (In order from most to least experience)  
+######   
 
 
 </td><td valign="top" width="33%">
